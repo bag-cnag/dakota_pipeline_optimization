@@ -28,6 +28,7 @@ interface,
 ##	  analysis_drivers = 'python.exe rosenbrock_bb_di.py'
 	parameters_file = 'params.in'
 	results_file = 'results.out'
+	work_directory
 #	file_tag
 #	file_save
 #	aprepro
