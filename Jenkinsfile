@@ -16,7 +16,7 @@
                     
                     withPythonEnv('python3'){
 
-                        sh '/apps/dakota/bin/dakota -i params.in ' 
+                        sh '/apps/dakota/bin/dakota -i parameters.in ' 
 
 
                     }
