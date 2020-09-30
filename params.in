@@ -23,7 +23,7 @@ variables,
 	  descriptor  'cpu' 'memory'
 interface,							
 	fork							
-	  analysis_drivers = 'spark_jenkins.py'
+	  analysis_drivers = 'spark_jenkins_new.py'
 
 ##	  analysis_drivers = 'python.exe rosenbrock_bb_di.py'
 	parameters_file = 'params.in'
